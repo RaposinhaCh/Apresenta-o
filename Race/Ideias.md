@@ -1,0 +1,7 @@
+- Sistema onde a pessoa irá até um marcador tendo um ticket de corrida, ela irá criar a corrida, as outras pessoas irão vir até essa corrida e tendo um ticket de corrida também, elas poderão entrar e correr.
+- A pessoa que criar a corrida irá poder escolher o percurso disponível naquela localidade.
+- Terá um sistema de [Aposta](Aposta.md) onde você pode apostar com outros corredores, para ver quem consegue o pódio.
+- Terá um sistemas de [Tickets](Tickets.md) onde a pessoa irá poder escolher qual ticket ela vai usar, tendo ou não uma carga de alta periculosidade.
+- Terá um sistema de [Ranking](Ranking.md) com opção competitiva, onde os jogadores poderão usar a corrida para competir entre si, com premiações e um sistema de Rank.
+- Terá um sistema de categoria de carros, onde determinados tipos de carros vão poder participar, mas também poderá ser escolhido um com TODOS.
+- Terá um sistema de [Espectadores](Espectadores.md) em corridas competitivas, algumas pessoas que tenham o Ticket Vip ou o Acesso as corridas poderão ver e assistir a corrida, podendo controlar em qual corredor você irá assistir.
